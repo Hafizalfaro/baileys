@@ -1,7 +1,7 @@
 # WhatsApp Baileys
 
 <p align="center">
-  <img src="https://rahmad-elaina.my.id/file/c2807a3020.jpg" width="300"/>
+  <img src="https://rahmad-elaina.my.id/file/dc1a7a32f8.jpg" width="300"/>
 </p><p align="center">
   <b>Pustaka Bot WhatsApp</b><br>
   Wrapper Baileys berkinerja tinggi untuk otomatisasi bot WhatsApp kalian
@@ -36,6 +36,6 @@ Dirancang agar ringan, cepat, dan mudah digunakan, serta mendukung berbagai fitu
 
 # Installation
 
-npm install RahmadPasker/baileys
+npm install Hafizalfaro/baileys
 
 ---
